@@ -1,4 +1,4 @@
 # basic-python
 Here's all basic python problem.
 <br>
-Author-Pintu Gupta
+Author-Pintu Gupta(pikku gupta)
