@@ -1,0 +1,11 @@
+marks={
+    "jeet":90,
+    "aditya":60,
+    "prashant":70
+    }
+print(marks.items())
+print(marks.values())
+print(marks.keys())
+print(marks.get("jeet"))
+marks.update({"jeet":100})
+print(marks["jeet"])
